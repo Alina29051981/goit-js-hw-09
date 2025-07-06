@@ -41,7 +41,7 @@ const onFormSubmit = (event) => {
 };
 
 if (form) {
-  loadFormData(); // виклик тут — тільки якщо форма є
+  loadFormData();
 
   form.addEventListener('submit', onFormSubmit);
   form.addEventListener('input', onFormInput);
