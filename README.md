@@ -29,7 +29,7 @@ Features
 - Library installed and imported via npm (no CDN links).
 
 # Task 2: Feedback Form with Local Storage
-[GitHub Pages Link-2](https://alina29051981.github.io/goit-js-hw-09/1-gallery.html) 
+[GitHub Pages Link-2](https://alina29051981.github.io/goit-js-hw-09/2-form.html)
 
 A feedback form that saves its state to localStorage as the user types.
 Upon page reload, the form automatically restores the previously entered data.
