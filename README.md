@@ -1,6 +1,7 @@
 **Live Demo:**  
 [GitHub Pages Link](https://Alina29051981.github.io/goit-js-hw-09/) 
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/Alina29051981/goit-js-hw-09/deploy.yml?branch=main)
 ![Last Commit](https://img.shields.io/github/last-commit/Alina29051981/goit-js-hw-09)
 ![Repo Size](https://img.shields.io/github/repo-size/Alina29051981/goit-js-hw-09)
 
