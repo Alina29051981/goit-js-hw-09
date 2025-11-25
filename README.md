@@ -14,6 +14,7 @@
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%99%A5-red)
 
 # Task 1: Image Gallery with SimpleLightbox
+[GitHub Pages Link-1](https://alina29051981.github.io/goit-js-hw-09/1-gallery.html) 
 
 An interactive image gallery created using data from a JavaScript array and rendered dynamically in the DOM.
 All modal functionality (open/close, keyboard navigation, captions) is provided by the SimpleLightbox library.
@@ -28,6 +29,7 @@ Features
 - Library installed and imported via npm (no CDN links).
 
 # Task 2: Feedback Form with Local Storage
+[GitHub Pages Link-2](https://alina29051981.github.io/goit-js-hw-09/1-gallery.html) 
 
 A feedback form that saves its state to localStorage as the user types.
 Upon page reload, the form automatically restores the previously entered data.
